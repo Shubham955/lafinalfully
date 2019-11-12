@@ -1,4 +1,9 @@
-﻿.navbar {
+﻿body {
+    background-image:url(images.jpg);
+     background-size:cover;
+    
+}
+.navbar {
     display: inline-block;
 }
 #HyperLink4,#HyperLink5,#HyperLink3,#HyperLink2,#HyperLink1{
